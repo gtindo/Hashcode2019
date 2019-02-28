@@ -1,0 +1,22 @@
+{
+  "name": "hashcode2019",
+  "version": "1.0.0",
+  "description": "Solution for hashcode 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtindo/Hashcode2019.git"
+  },
+  "author": "G_T_Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtindo/Hashcode2019/issues"
+  },
+  "homepage": "https://github.com/gtindo/Hashcode2019#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
